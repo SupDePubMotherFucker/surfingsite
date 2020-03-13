@@ -1,0 +1,25 @@
+/* styles.css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+	font-size:1em;
+}
+
+.jumbotron{
+	background-image: url('img/surf-3.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:400px;
+} 
+
+img{
+	width:100%;
+}
+
+#features i{
+	font-size:4em;
+}
